@@ -110,6 +110,6 @@ Circuit Digest, Electronics Hub tutorials
 AVR Freaks Forums & GitHub examples
 
 ✍️ Authors
-Samir Hiteshbhai Makwana (240173111011)
+Samir Hiteshbhai Makwana 
 
 📧 Contact: samirmakvana71@gmail.com# DISTANCE-DETECTER-USING-ATMEGA32
